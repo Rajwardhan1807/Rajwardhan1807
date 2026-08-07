@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Rajwardhan
 
-<picture>
-<source alt ="card" src = "Stark_Ind.svg">
-</picture>
+<img src="Stark_Ind.svg" alt="Project Diagram" width="300">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
