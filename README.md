@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Rajwardhan
+<p align="center">
+  <img src="Stark_Ind.svg" alt="Stark Industries Logo" width="400" style="border-radius: 15px; overflow: hidden;">
+</p>
 
-<img src="Stark_Ind.svg" alt="Project Diagram" width="300">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
