@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="Stark_Ind.svg" alt="Stark Industries Logo" width="400" style="border-radius: 15px; overflow: hidden;">
-</p>
+</p> -->
 
 
 <picture>
