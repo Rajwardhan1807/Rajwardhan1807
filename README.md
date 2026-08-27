@@ -11,14 +11,14 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 B.Tech in Computer Science & Engineering at D.Y. Patil School of Engineering (DYPSN)
-- 📍 Kolhapur, Maharashtra, India
-- 🎯 Currently focused on **Cloud & AI**
-- 💻 Full Stack Developer | AI Enthusiast | Open Source Contributor
+-  B.Tech in Computer Science & Engineering at D.Y. Patil School of Engineering (DYPSN)
+-  Kolhapur, Maharashtra, India
+-  Currently focused on **Cloud & AI**
+-  Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages:** C, C++, Python, Java, JavaScript, Kotlin  
 **Frontend:** React.js, Tailwind CSS, HTML5, CSS3  
@@ -26,7 +26,7 @@
 **Databases:** MongoDB, PostgreSQL, Firebase  
 **DevOps & Tools:** Docker, AWS, Git, GitHub, Kubernetes
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajwardhan1807)
 
